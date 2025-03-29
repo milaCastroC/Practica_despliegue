@@ -9,7 +9,6 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "@google/generative-ai": "^0.21.0",
     "bcrypt": "^5.1.1",
@@ -23,5 +22,14 @@
     "pg": "^8.13.3",
     "pg-hstore": "^2.3.4",
     "sequelize": "^6.37.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milaCastroC/Practica_despliegue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/milaCastroC/Practica_despliegue/issues"
+  },
+  "homepage": "https://github.com/milaCastroC/Practica_despliegue#readme",
+  "description": ""
 }
